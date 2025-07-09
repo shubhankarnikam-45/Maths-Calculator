@@ -11,6 +11,7 @@ const App = () => {
   const calculateValue=(value)=>
   {
 
+    //list of operators
     const operators = ['+', '-', '/', '*', '%'];
 
     //runngng for loop on the value string and find the operator.
