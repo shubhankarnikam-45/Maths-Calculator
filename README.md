@@ -19,7 +19,7 @@ No libraries used – pure React and CSS!
 ![image](https://github.com/user-attachments/assets/02d9b97f-5cb6-4972-893d-313d9e6df3fe)
 
 🔧 How to Run Locally
-git clone https://github.com/your-username/react-calculator.git
+git clone https://github.com/shubhankarnikam-45/maths-calculator.git
 cd react-calculator
 npm install
 npm start
